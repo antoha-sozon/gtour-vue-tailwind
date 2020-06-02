@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "G-Tour",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "cordova": {}
+}
